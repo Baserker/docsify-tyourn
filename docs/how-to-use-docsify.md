@@ -1,9 +1,9 @@
-还记得我在上周发的[《V2.0 版本的 JavaGuide 面试突击版来啦！带着它的在线阅读版本来啦！》](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247486494&idx=1&sn=a17e8278bd9fc1354449f925ef990c25&chksm=cea243d5f9d5cac3b0b3b55769e162363256eb7fa483997c21b62cddb4ef2d583a2bcae0ac1a&token=1910196174&lang=zh_CN#rd)这篇文章中答应手把手教大家搭建一下下面一样的文档类型网站不？
+还记得Guide 哥在上周发的[《V2.0 版本的 JavaGuide 面试突击版来啦！带着它的在线阅读版本来啦！》](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247486494&idx=1&sn=a17e8278bd9fc1354449f925ef990c25&chksm=cea243d5f9d5cac3b0b3b55769e162363256eb7fa483997c21b62cddb4ef2d583a2bcae0ac1a&token=1910196174&lang=zh_CN#rd)，那个文档页面把我馋了好久。这篇文章中就手把手教大家搭建一下下面一样的文档类型网站好不？
 
 
 ![](https://imgkr.cn-bj.ufileos.com/bf58b379-2006-47a3-b722-5c65dbd1b0f6.png)
 
-这篇文章 Guide 哥就手把手教大家搭建一个像下面这样的文档类型的网站，你可以用来当做项目的说明文档，也还可以当做自己专属的知识小仓库。
+这篇文章 小贤就手把手教大家搭建一个像下面这样的文档类型的网站，你可以用来当做项目的说明文档，也还可以当做自己专属的知识小仓库。
 
 ![](https://imgkr.cn-bj.ufileos.com/c190b25c-e3c0-4c2c-a6b6-60a9a9dbb99e.png)
 
@@ -32,7 +32,7 @@
 
 ![](https://imgkr.cn-bj.ufileos.com/c91ce762-2948-4455-af28-a330bc7e4120.png)
 
-建议 clone 一下我的仓库： [https://github.com/Snailclimb/docsify-demo](https://github.com/Snailclimb/docsify-demo) ，在本地运行一下 ，这是一个比较典型的使用 docsify 搭建的网站，可以作为参考。如果你们想搭建一个不错的文档网站的话，可以在我的这个基础上去改。
+建议 clone 一下Guide哥的仓库： [https://github.com/Snailclimb/docsify-demo](https://github.com/Snailclimb/docsify-demo) ，在本地运行一下 ，这是一个比较典型的使用 docsify 搭建的网站，可以作为参考。如果你们想搭建一个不错的文档网站的话，可以在他的这个基础上去改。
 
 ### 3.1 修改配置文件 index.html
 
